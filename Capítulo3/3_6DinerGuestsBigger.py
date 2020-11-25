@@ -1,4 +1,4 @@
-guests=['Zé', 'Tonho', 'Pedro', 'Andressa']
+guests=['Luiz', 'Massami', 'Rodrigo', 'Andressa']
 message = "Gostaria de jantar comigo, " + guests[0].title() + "?"
 print(message)
 message = "Gostaria de jantar comigo, " + guests[1].title() + "?"
@@ -21,7 +21,7 @@ print(message)
 print('Encontrei uma mesa maior, suas frangas!')
 guests.insert(0, 'Paulo')
 guests.insert(3, 'Bruno')
-guests.append('vicente')
+guests.append('Vicente')
 message = "Gostaria de jantar comigo, " + guests[0].title() + "?"
 print(message)
 message = "Gostaria de jantar comigo, " + guests[1].title() + "?"
