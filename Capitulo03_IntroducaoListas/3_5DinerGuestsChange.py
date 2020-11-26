@@ -1,4 +1,4 @@
-guests=['Luis Felipe Pondé', 'Carson wentz', 'pastor Heros', 'Andressa']
+guests=['Luis Felipe Pondé', 'Carson wentz', 'Pastor Rodolfo', 'Esposa']
 message = "Gostaria de jantar comigo, " + guests[0].title() + "?"
 print(message)
 message = "Gostaria de jantar comigo, " + guests[1].title() + "?"
