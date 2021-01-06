@@ -5,10 +5,10 @@
 #em seu dicionário.
 #07/01/21
 
-pessoa = {'primeiro_nome': 'andressa', 
-    'sobrenome': 'benteu',
-    'idade': '42',
-    'cidade': 'tremembé'}
+pessoa = {'primeiro_nome': 'zé', 
+    'sobrenome': 'das couves',
+    'idade': '40',
+    'cidade': 'taubatexas'}
     
 print("Nome: " + pessoa['primeiro_nome'])
 print("Sobrenome: " + pessoa['sobrenome'])
