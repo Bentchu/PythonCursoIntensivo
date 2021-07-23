@@ -1,18 +1,17 @@
 '''falta descrição
-loop infinito
-tratar var 'idade' separado quando fôr string ou numérica?'''
-
-idade = "\nQual a idade da pessoa que deseja o ingresso?  "
-idade += "\nEntre 'quit' para encerrar o programa.     "
-
-idade = input(idade)
+pra quê o active?'''
 
 active = True
 
 while active:
 	
+	idade = "\nQual a idade da pessoa que deseja o ingresso?  "
+	idade += "\nEntre 'quit' para encerrar o programa.     "
+
+	idade = input(idade)
+
 	if idade == 'quit':
-		active = False
+		break
 	
 	idade = int(idade)
 	
