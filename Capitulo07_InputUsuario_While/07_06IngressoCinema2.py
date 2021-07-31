@@ -1,4 +1,10 @@
-'''falta descrição
+'''7.6 – Três saídas: Escreva versões diferentes do Exercício 7.4 ou do Exercício
+7.5 que faça o seguinte, pelo menos uma vez: • use um teste condicional na
+instrução while para encerrar o laço; • use uma variável active para controlar
+o tempo que o laço executará; • use uma instrução break para sair do laço
+quando o usuário fornecer o valor 'quit'.
+livro pg.179 pdf pg.163
+
 pra quê o active?'''
 
 active = True
