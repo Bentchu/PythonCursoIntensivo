@@ -1,4 +1,6 @@
-'''falta descrição'''
+'''7.7 – Infinito: Escreva um laço que nunca termine e execute-o. (Para encerrar o
+laço, pressione CTRL-C ou feche a janela que está exibindo a saída.)
+livro pg.179 pdf pg.163'''
 
 idade = "\nQual a idade da pessoa que deseja o ingresso?  "
 
