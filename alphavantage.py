@@ -3,7 +3,7 @@ import requests
 import pandas as pd
 from io import StringIO
 
-acoes = ['BRCO11', 'BTCI11', 'TGAR11', 'KFOF11', 'KNCA11', 'GTWR11', 'RZTR11', 'XPML11']
+acoes = ['BRCO11', 'BTCI11', 'TGAR11', 'KFOF11', 'HFOF11', 'BTLG11', 'GARE11', 'XPLG11', 'KNCA11', 'GTWR11', 'RZTR11', 'vghf11', 'VISC11', 'XPML11']
 
 compilada = pd.DataFrame()
 
